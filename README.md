@@ -1,10 +1,10 @@
 # Telco Customer Churn : Project Overview
-![](images/main.jpg)
+<img src="images/main.jpg" width ="500" height="200" >
 * Build a home valuation tool
    
 
 ## Business Problem
-  <img src="images/problem.png" width ="500" height="300" >
+  <img src="images/customer.png" width ="500" height="300" >
   
   People who want to value of home in Bosten area by their requirements.
 
