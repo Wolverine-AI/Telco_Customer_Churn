@@ -1,4 +1,4 @@
-# Predict House Prices : Project Overview
+# Telco Customer Churn : Project Overview
 ![](images/boston.png)
 * Build a home valuation tool
    
@@ -12,10 +12,10 @@
   Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
    
 ## EDA
-   ![](images/avg_no_room.png)
+   ![](images/churn.png)
    <img src="images/distance.png" width ="500" height="300" >
-   ![](images/download.png)
-   ![](images/house_price.png)
+   ![](images/churn3.png)
+   ![](images/churn2.png)
    ![](images/room_price.png)
    ![](images/heatmap.png)
       
