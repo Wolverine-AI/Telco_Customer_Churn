@@ -1,5 +1,5 @@
 # Telco Customer Churn : Project Overview
-![](images/boston.png)
+![](images/main.jpg)
 * Build a home valuation tool
    
 
@@ -13,11 +13,8 @@
    
 ## EDA
    ![](images/churn.png)
-   <img src="images/distance.png" width ="500" height="300" >
    ![](images/churn3.png)
    ![](images/churn2.png)
-   ![](images/room_price.png)
-   ![](images/heatmap.png)
-      
+
       
 ## Model
