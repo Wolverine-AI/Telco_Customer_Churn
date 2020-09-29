@@ -5,13 +5,14 @@ Solve churn problem using three Machine Learning and one Deep learning model :-
 * Linear Regression
 * RandomForestRegressor
 * Xgboost
-   
+* ANN   
 
 ## Business Problem
   <img src="images/customer.png" width ="500" height="300" >
-  * Predict behavior to retain customers. 
+  Problem :-
   
-  * Analyze all relevant customer data and develop focused customer retention programs.
+    * Predict behavior to retain customers. 
+    * Analyze all relevant customer data and develop focused customer retention programs.
 
 ## Gather Data
   Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
