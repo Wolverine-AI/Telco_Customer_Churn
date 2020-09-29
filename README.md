@@ -1,11 +1,14 @@
 # Telco Customer Churn : Project Overview
 <img src="images/main.jpg" width ="500" height="200" >
-
+Solve churn problem using three Machine Learning and one Deep learning model :-
+* Multiregression 
+*
    
 
 ## Business Problem
   <img src="images/customer.png" width ="500" height="300" >
   * Predict behavior to retain customers. 
+  
   * Analyze all relevant customer data and develop focused customer retention programs.
 
 ## Gather Data
