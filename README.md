@@ -1,8 +1,10 @@
 # Telco Customer Churn : Project Overview
 <img src="images/main.jpg" width ="500" height="200" >
 Solve churn problem using three Machine Learning and one Deep learning model :-
-* Multiregression 
-*
+
+* Linear Regression
+* RandomForestRegressor
+* Xgboost
    
 
 ## Business Problem
