@@ -6,7 +6,6 @@
 ## Business Problem
   <img src="images/customer.png" width ="500" height="300" >
   * Predict behavior to retain customers. 
-  
   * Analyze all relevant customer data and develop focused customer retention programs.
 
 ## Gather Data
